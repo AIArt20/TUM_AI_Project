@@ -8,8 +8,6 @@ The persaved data stored in the folder Books oder Speeches can be easily useed t
 <a target="_blank" href="[https://colab.research.google.com/github/AIArt20/TUM_AI_Project/blob/main/Generative_AI_Project_TUM.ipynb](https://colab.research.google.com/drive/1dFLtHzyBwoJ7W8nyYVOo7bgC7ECollLY?usp=sharing)">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-<br />
-<br />
 
 For bacis data collection the tool -Miner- can be used.
 
