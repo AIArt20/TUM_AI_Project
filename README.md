@@ -7,7 +7,6 @@ The persaved data stored in the folder Books oder Speeches can be easily useed t
 <a target="_blank" href="https://colab.research.google.com/github/AIArt20/TUM_AI_Project/blob/main/Generative_AI_Project_TUM.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-The persaved data stored in Books oder Speeches can be useed to train your GPT Langugage model.
 <br />
 <br />
 
