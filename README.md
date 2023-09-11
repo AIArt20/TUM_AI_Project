@@ -9,6 +9,8 @@ The persaved data stored in the folder Books oder Speeches can be easily useed t
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br />
+<br />
+<br />
 For bacis data collection the tool -Miner- can be used.
 
 Run the following commands in Linux,  MacOS use Brew or a Python3 environemt. 
