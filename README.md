@@ -7,7 +7,7 @@ Generative AI Project - Training a txt generative AI.
 <br />
 <br />
 The persaved data stored in Books oder Speeches can be useed to train your GPT Langugage model.
-
+<br />
 <br />
 
 For bacis data collection the tool -Miner- can be used.
