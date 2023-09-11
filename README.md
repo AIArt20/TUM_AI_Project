@@ -36,7 +36,7 @@ Run the following commands in Linux, MacOS HomeBrew or a Python3 environemt.
    ```
 
 7. ```
-   cd -Miner-
+   cd TUM_AI_Project/-Miner-
    ```
 
 8. ```
