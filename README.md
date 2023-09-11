@@ -5,7 +5,7 @@ Generative AI Project - Training a txt generative AI.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br />
-
+<br />
 The persaved data stored in Books oder Speeches can be useed to train your GPT Langugage model.
 
 <br />
