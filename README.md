@@ -5,11 +5,14 @@ Generative AI Project - Training a txt generative AI.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br />
+
+The persaved data stored in Books oder Speeches can be useed to train your GPT Langugage model.
+
 <br />
 
-For data collection the tool -Miner- can be used.
+For bacis data collection the tool -Miner- can be used.
 
-Run the following commands in Linux, MacOS HomeBrew or a Python3 environemt. 
+Run the following commands in Linux,  MacOS use Brew or a Python3 environemt. 
 
 1. ```
    sudo apt install git
