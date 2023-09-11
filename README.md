@@ -32,7 +32,7 @@ Run the following commands in Linux, MacOS HomeBrew or a Python3 environemt.
    ```
 
 6. ```
-   git clone https://github.com/AIArt20/TUM_AI_Project/tree/main/-Miner-
+   git clone https://github.com/AIArt20/TUM_AI_Project.git
    ```
 
 7. ```
